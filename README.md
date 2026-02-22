@@ -8,6 +8,8 @@
 ## 📌 Project Overview
 This project implements a robust multi-modal AI system designed to classify online advertisements into **20 distinct categories**. By leveraging both visual and textual data (images, generated captions, extracted text via OCR, and metadata), the system achieves deep semantic understanding of complex ad content.
 
+<img width="1166" height="937" alt="image" src="https://github.com/user-attachments/assets/f6c478bf-dc3c-4cbd-b3ec-20b696a829be" />
+
 ### ✨ Key Highlights & Performance
 - **State-of-the-Art Models:** Integrates **CLIP**, **ViLT**, and **BLIP-2** for advanced feature extraction and multimodal fusion.
 - **High Accuracy:** The fine-tuned CLIP model achieved an impressive **84.36% accuracy** on a rigorous test dataset of 5,929 samples.
