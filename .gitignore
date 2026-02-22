@@ -1,0 +1,17 @@
+# Bỏ qua các thư mục cache của Python
+__pycache__/
+*.py[cod]
+
+# Bỏ qua các môi trường ảo (nếu bạn lỡ tạo trong thư mục này)
+env_ocr/
+env_blip/
+env_main/
+
+# Bỏ qua file dữ liệu và ảnh quá nặng
+Source/Training/images/
+*.json
+
+# Bỏ qua các file Model trọng số (> 100MB)
+*.pth
+*.safetensors
+*.bin
