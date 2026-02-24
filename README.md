@@ -100,6 +100,6 @@ Once all services are running, open your web browser and navigate to the local U
 ## 👨‍💻 Authors
 - [PhD. Luong Thi Ngoc Khanh] - Instructor
 - [Tran Ba Dat] - Computer Science Student at Ton Duc Thang University
-- [Nguyen Tan Phong] - Computer Science Student at Ton Duc Thang University
+- [] - Computer Science Student at Ton Duc Thang University
 
 *This project was developed as part of the graduation thesis/coursework.*
